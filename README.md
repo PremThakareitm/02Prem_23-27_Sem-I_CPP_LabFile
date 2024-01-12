@@ -32,11 +32,11 @@ order.
 
 14 Create a C++ program to print the following pattern:
 
-*****
-*   *
-*   *
-*   *
-*****
+  *****
+  *   *
+  *   *
+  *   *
+  *****
 
 15 Write a C++ program to display the following pattern:
 
