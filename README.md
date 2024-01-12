@@ -32,20 +32,20 @@ order.
 
 14 Create a C++ program to print the following pattern:
 
-  *****
-  *   *
-  *   *
-  *   *
-  *****
+*****
+*   *
+*   *
+*   *
+*****
 
 15 Write a C++ program to display the following pattern:
 
-1
-232
-34543
+   1
+  232
+ 34543
 4567654
-34543
-232
+ 34543
+  232
 
 16 Write a program to creating an inventory management system for a small
 store. The system should use object-oriented principles in C++. Your program
