@@ -1,5 +1,5 @@
 // Write a program to create an array of strings and display them in alphabetical
-// order.
+//order.
 
 #include <iostream>
 #include <string>
